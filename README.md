@@ -2,7 +2,7 @@
 
 ![Proof HTML](https://github.com/Add-website/demo-repository/actions/workflows/proof-html.yml/badge.svg)
 
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+# Real Estate
+Theme Deploy.
 
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+The repo includes an `index.html` file (so it can render a web page),  Actions workflows, and a CSS stylesheet dependency.
